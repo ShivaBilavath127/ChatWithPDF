@@ -11,7 +11,7 @@ UPLOAD_FOLDER = 'uploads'
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
 # Replace with your free Together API Key
-TOGETHER_API_KEY = "071b3499bfc66371b3dea071d0d625d2562d71897228c38ea9a5bae978beeac9"
+TOGETHER_API_KEY = "Your together.ai API key"
 
 pdf_text = ""  # Global variable to hold PDF content
 
