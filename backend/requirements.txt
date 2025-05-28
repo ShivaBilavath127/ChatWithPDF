@@ -1,4 +1,7 @@
 Flask
 flask-cors
 PyPDF2
+os
+fitz
+requests
 openai
